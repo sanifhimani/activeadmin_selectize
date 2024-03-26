@@ -1,3 +1,11 @@
+# ActiveAdmin Selectize - Fork for ActiveAdmin 3.0 Support
+
+This repository is a fork of `activeadmin_selectize`, specifically modified to support ActiveAdmin version 3.0. The primary change in this fork is the update of the gemspec file.
+
+## Add this to your Gemfile
+
+`gem 'activeadmin_selectize', git: 'https://github.com/sanifhimani/activeadmin_selectize.git'`
+
 # ActiveAdmin Selectize
 [![gem version](https://badge.fury.io/rb/activeadmin_selectize.svg)](https://badge.fury.io/rb/activeadmin_selectize) [![gem downloads](https://badgen.net/rubygems/dt/activeadmin_selectize)](https://rubygems.org/gems/activeadmin_selectize) [![linters](https://github.com/blocknotes/activeadmin_selectize/actions/workflows/linters.yml/badge.svg)](https://github.com/blocknotes/activeadmin_selectize/actions/workflows/linters.yml) [![specs](https://github.com/blocknotes/activeadmin_selectize/actions/workflows/specs.yml/badge.svg)](https://github.com/blocknotes/activeadmin_selectize/actions/workflows/specs.yml)
 
